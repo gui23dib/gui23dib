@@ -1,13 +1,13 @@
 <h3> :pushpin: &nbsp;ABOUT ME </h3>
-<img align="right" width="190" height="190" src="./profilep.jpg" />
+<img align="right" width="190" height="190" src="./profilep.jpg"/>
 
 ```JavaScript
  user => {
- const fullName = "Guilherme Dib da Silva"
- let fluentLanguages = "English, Portuguese, Spanish"
+ const fullName = "Guilherme Dib da Silva";
+ let fluentLanguages = "English, Portuguese, Spanish";
  
- let primarySkillset = "Dev"
- let programmingLanguages = listOf("C", "Python", "JavaScript", "ReactJS", "HTML5 / CSS")
+ let primarySkillset = "Dev";
+ let programmingLanguages = "C, Python, JavaScript, ReactJS, HTML5 / CSS";
  ...
 }
 ```

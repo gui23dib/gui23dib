@@ -15,10 +15,6 @@
 - &nbsp; Studying **COMPUTER SCIENCE** at the <a href="https://www.unisantos.br">Catholic University of Santos</a>.
 - &nbsp; Currently learning more about **REACTJS / JavaScript**.
 
-<a href="https://github.com/gui23dib">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gui23dib&theme=dracula&show_icons=true" />
-</a>
-
 <br/>
 
 <h3> :computer: &nbsp;CONTACT OPTIONS </h3>

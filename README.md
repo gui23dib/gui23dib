@@ -6,13 +6,13 @@
  let fluentLanguages = "English, Portuguese, Spanish";
  
  let primarySkillset = "Dev";
- let programmingLanguages = "C, Python, JavaScript, ReactJS, HTML5 / CSS";
+ let programmingLanguages = "C, Python, JavaScript, ReactJS, Flutter";
  ...
 }
 ```
 - &nbsp; Exploring the development and innovation scenario.
 - &nbsp; Studying **COMPUTER SCIENCE** at the <a href="https://www.unisantos.br">Catholic University of Santos</a>.
-- &nbsp; Currently learning more about **REACTJS / JavaScript**.
+- &nbsp; Currently learning more about **Flutter / Dart**.
 
 <br/>
 

@@ -3,10 +3,10 @@
 ```JavaScript
  user => {
  const fullName = "Guilherme Dib da Silva";
- let fluentLanguages = "English, Portuguese, Spanish";
+ let fluentLanguages = "English, Portuguese, Spanish, French";
  
- let primarySkillset = "Dev";
- let programmingLanguages = "C, Python, JavaScript, ReactJS, Flutter";
+ let primarySkillset = "Dev, AWS";
+ let programmingLanguages = "C#, .NET, Python, JavaScript, ReactJS, Flutter";
  ...
 }
 ```

@@ -12,7 +12,7 @@
 ```
 - &nbsp; Exploring the dev community and innovation scenario.
 - &nbsp; Studying **COMPUTER SCIENCE** at the <a href="https://www.unisantos.br">Catholic University of Santos</a>.
-- &nbsp; Currently learning more about **C#**.
+- &nbsp; Currently learning more about **NodeJs**.
 
 <br/>
 

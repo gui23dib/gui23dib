@@ -6,7 +6,7 @@
  let fluentLanguages = "English, Portuguese, Spanish, French";
  
  let primarySkillset = "Dev, AWS";
- let programmingLanguages = "C#.NET, Python, JavaScript, ReactJS, Dart/Flutter, C++";
+ let programmingLanguages = "C/C++, C#.NET, Python, JavaScript, ReactJS, Dart/Flutter";
  ...
 }
 ```

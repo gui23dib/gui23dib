@@ -14,7 +14,6 @@
    
    let primarySkillset = (Dev, AWS, Data Science);
    let mainProgrammingLanguages = [C/C++, C#.NET, Python, ReactJS, Dart/Flutter, Java];
- ...
 }
 ```
 
@@ -66,8 +65,6 @@
 <h3 align="left">Back-end:</h3>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
